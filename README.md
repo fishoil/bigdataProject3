@@ -30,5 +30,10 @@ Set up the PySpark environment, and have the project3_data.csv file and the scri
 Execute the Python script.
 Review the output for model evaluations.
 
+## Output
+![project3_printout](https://github.com/fishoil/bigdataProject3/assets/49046183/aa3dda7a-82c7-48aa-92ec-a2967473b2e6)
+
+
+
 ## Author
 Long Huang
