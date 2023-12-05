@@ -18,12 +18,8 @@ The dataset is initially in a CSV format with clinical variables and needs to be
 - Model Evaluation: Models are evaluated based on Accuracy, F1 Score, Precision, Recall, and Area under ROC.
 
 ## Usage
-Data Conversion: Run the script to convert the CSV data to LibSVM format.
-Model Training and Evaluation: Execute the script to train the models and evaluate their performances.
-
-This text you see here is *actually- written in Markdown! To get a feel
-for Markdown's syntax, type some text into the left window and
-watch the results in the right.
+Data Conversion: Replace the path of the script, run the script to convert the CSV data to LibSVM format.
+Model Training and Evaluation: Load the LibSVM file to train the models and evaluate their performances.
 
 ## Dependencies
 - PySpark
