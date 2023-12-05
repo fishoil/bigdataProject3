@@ -28,7 +28,7 @@ def convert_to_libsvm_format(df, label_column):
 
 
 # Initialize SparkSession for CSV reading
-spark = SparkSession.builder.appName("CancerDiagnosis").getOrCreate()
+spark = SparkSession.builder.appName("CancerDiagnosisPrediction-ML").getOrCreate()
 
 # Read the CSV file using Pandas
 df = pd.read_csv("[replace]")
